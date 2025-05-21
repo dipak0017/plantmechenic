@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# build outputs
+/dist
+/build
+
+# uploaded assets
+/uploads
+
+# environment
+.env
