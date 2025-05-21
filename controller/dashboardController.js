@@ -1,5 +1,5 @@
 const Category = require('../Model/Category');
-const Prompt = require('../Model/Prompt');
+const Prompt = require('../Model/prompt');
 
 // GET /api/dashboard
 exports.getDashboardData = async (req, res) => {
