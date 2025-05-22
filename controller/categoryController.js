@@ -1,4 +1,5 @@
 const Category = require("../Model/Category");
+const Prompt = require("../Model/prompt");
 
 
 // GET all categories with prompts
