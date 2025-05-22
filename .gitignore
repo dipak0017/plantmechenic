@@ -5,8 +5,7 @@
 /dist
 /build
 
-# uploaded assets
-/uploads
+
 
 # environment
 .env
